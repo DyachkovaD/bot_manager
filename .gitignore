@@ -1,0 +1,7 @@
+pdf_to_send/
+venv/
+credentials.json
+token_data.py
+test.py
+__pycache__
+.idea
